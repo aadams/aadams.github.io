@@ -27,13 +27,12 @@
   }
   
   h2 {
-    font-style: italic;
     font-size: 18px;
   }
   
   a:link,
   a:visited {
-    color: blue;
+    color: #240eb5;
   }
   
   code,
@@ -71,13 +70,12 @@
   }
   
   h2 {
-    font-style: italic;
     font-size: 18px;
   }
   
   a:link,
   a:visited {
-    color: blue;
+    color: #240eb5;
   }
   
   code,
